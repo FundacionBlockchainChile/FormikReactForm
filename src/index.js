@@ -132,6 +132,7 @@ const SignupForm = () => {
   );
 };
 
+
 function App() {
   return <SignupForm />;
 }
